@@ -1,0 +1,16 @@
+
+<!DocTyPe htML   >
+<html>
+
+
+  <div>Hello</div>
+  <span>World!</span>
+
+
+div, span {
+  background-color: blue;
+}
+
+</body>
+</html>
+
